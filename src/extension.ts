@@ -5,7 +5,7 @@ import icons from "./icons";
 fs.writeFile(
   "icons.json",
   JSON.stringify({
-    hidesExplorerArrows: true,
+    hidesExplorerArrows: false,
     iconDefinitions: icons,
     ...generator,
   }),

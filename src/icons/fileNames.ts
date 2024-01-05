@@ -290,6 +290,8 @@ export default {
   ".firebaserc": "_f_firebase",
   "firestore.rules": "_f_firebase",
   "firestore.indexes.json": "_f_firebase",
+  "index.ts": "_f_asterisk",
+  "testing.ts": "_f_asterisk",
   ".flowconfig": "_f_flow",
   "fuse.js": "_f_fusebox",
   "gatsby.config.js": "_f_gatsby",
