@@ -1,3 +1,13 @@
+## Manual Installation of VS Code Plugin
+Cuz I don't want to deal with putting it on the Marketplace.
+```shell
+git clone https://github.com/untio11/vscode-icons.git
+npm run reload
+code --install-extension icons-3.8.0.vsi
+```
+And then it should be in your installed extensions list in VS Code as "Icons" (with untio11 as author).
+Enable it like any other icon pack.
+
 <h1 align="center">
   <br>
     <img src="icon.png" alt="logo" width="200">
